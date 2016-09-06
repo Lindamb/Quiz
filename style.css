@@ -1,5 +1,6 @@
 .jumbotron {
-	color: #2F383B;
+	background-color: #2F383B;
+	color: #FFFFFF;
 }
 
 .topheader {
@@ -10,4 +11,21 @@
 }
 .header {
 	text-align: center;
+}
+.john {
+	width: 100%;
+	border-radius: 50%;
+
+}
+.paul {
+	width: 100%;
+	border-radius: 50%;
+}
+.george {
+	width: 100%;
+	border-radius: 50%;
+}
+.ringo {
+	width: 100%;
+	border-radius: 50%;
 }
